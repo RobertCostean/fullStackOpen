@@ -1,4 +1,4 @@
-# p3project
+# javaSqlLibrary
 This is a Java program that provides an interface for managing a bookstore database. The program uses MySQL as the backend database.
 
 The program allows the user to add new authors, books and bookstores, and lists the current added items. The program can also query the database and retrieve the names of all the authors.
